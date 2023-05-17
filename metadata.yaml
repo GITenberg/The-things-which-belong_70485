@@ -1,0 +1,37 @@
+_repo: The-things-which-belong_70485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holme, Constance
+    alias: Punchard, Constance Holme
+    birthdate: 1880
+    deathdate: 1955
+    gutenberg_agent_id: '40683'
+    url: http://www.gutenberg.org/2009/agents/40683
+    wikipedia: https://en.wikipedia.org/wiki/Constance_Holme
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70485'
+  lccn: '26007207'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006534051
+pgterms:marc905: 20211127152443holme
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: MWS, David E. Brown, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bMills & Boon, Limited, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Canada -- Emigration and immigration -- Fiction'
+- !lcsh 'Older couples -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The things which belong—
+url: http://www.gutenberg.org/ebooks/70485
